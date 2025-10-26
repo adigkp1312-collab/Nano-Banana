@@ -1,0 +1,5 @@
+{
+  "name": "Whisk Tool - AI Image Generator",
+  "description": "A creative tool to generate and edit images using text prompts powered by the Gemini 2.5 Flash Image model. Define aspect ratio, camera angles, characters, locations, and styles to bring your vision to life.",
+  "requestFramePermissions": []
+}
